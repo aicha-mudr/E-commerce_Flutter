@@ -1,4 +1,4 @@
-# Ecommerce mobile app of Fashion articles using Flutter
+# E-commerce mobile app of Fashion articles using Flutter
 
 Le  projet synthétise le travail effectué dans le cadre de notre stage de première année effectué au sein d’ **(INTELLCAP)**  tout au long de notre période de stage qui était de deux mois (la partie mobile). 
 
